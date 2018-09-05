@@ -1,5 +1,4 @@
-# TSA-SVM
-Final Dissertation
+# TSA-SVM - Final Dissertation
 ######################################################################
 #                                                                    #
 #                         Ali Akbar Jilani                           #
